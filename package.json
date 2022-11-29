@@ -2,7 +2,7 @@
   "name": "a01-akarki123",
   "version": "1.0.0",
   "description": "First assignment",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "node server.js --port=5555"
   },
